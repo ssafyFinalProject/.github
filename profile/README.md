@@ -11,9 +11,9 @@
 
 - 2024.05.16 ~
 
-| SSAFY                                 | For your plan                       |
-| ------------------------------------- | ----------------------------------- |
-| ![Alt text 2](./asset/ssafy-logo.png) | ![Alt text 1](./asset/fyp-logo.png) |
+| SSAFY                                                                                              | For your plan                                                                                    |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| ![Alt text 2](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/ssafy-logo.png) | ![Alt text 1](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/fyp-logo.png) |
 
 ## 🙇🏻‍♂️ **Members**
 
