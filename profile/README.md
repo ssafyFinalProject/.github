@@ -13,9 +13,9 @@
 
 <div align="center">
 
-| SSAFY                                                                                                       | For your plan                                                                                               |
-| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/ssafy-logo.png" width="300"> | <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/ssafy-logo.png" width="300"> |
+| SSAFY                                                                                                       | For your plan                                                                                             |
+| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/ssafy-logo.png" width="300"> | <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/fyp-logo.png" width="300"> |
 
 ## 🙇🏻‍♂️ **Members**
 
