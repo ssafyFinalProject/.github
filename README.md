@@ -1,2 +1,2 @@
-# .github
-SSAFY Final Project
+# For Your Plan
+### SSAFY Final Project
