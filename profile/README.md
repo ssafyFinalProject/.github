@@ -15,6 +15,15 @@
 | ------------------------------------- | ----------------------------------- |
 | ![Alt text 2](./asset/ssafy-logo.png) | ![Alt text 1](./asset/fyp-logo.png) |
 
+## 🙇🏻‍♂️ **Members**
+
+<div align="center">
+
+|                    [elic121](https://github.com/elic121)                     |                 [jinjoo-lab](https://github.com/jinjoo-lab)                  |
+| :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+| <img src="https://avatars.githubusercontent.com/u/87183040?v=4" width="300"> | <img src="https://avatars.githubusercontent.com/u/84346055?v=4" width="300"> |
+|                                   **F.E.**                                   |                                   **B.E.**                                   |
+
 ---
 
 <div align="left">
@@ -49,34 +58,35 @@
 ## Result
 
 - 로그인
-  ![로그인](./asset/login.png)
+  ![로그인](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/login.png)
 - 회원가입
-  ![회원가입](./asset/signup.png)
+  ![회원가입](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/signup.png)
 - 마이페이지
-  ![마이페이지](./asset/mypage.png)
+  ![마이페이지](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/mypage.png)
 - 관광지 검색 기능
-  ![관광지 검색 기능](./asset/search.png)
+  ![관광지 검색 기능](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/search.png)
 - 메인 보드
-  ![메인 보드](./asset/board.png)
+  ![메인 보드](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/board.png)
 - 게시글 내부
-  ![게시글 내부](./asset/board-inside.png)
+  ![게시글 내부](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/board-inside.png)
 - 핫플레이스
-  ![핫플레이스](./asset/hot-place.png)
+  ![핫플레이스](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/hot-place.png)
 - ChatGPT 추천기능
-  ![ChatGPT 추천기능](./asset/chatgpt.png)
+  ![ChatGPT 추천기능](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/chatgpt.png)
 - 여행지 계획 목록
-
+  ![여행지 계획 목록](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-list.jpg)
 - 여행지 계획 세부목록
-
+  ![여행지 계획 세부목록](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-detail.jpg)
 - 여행지 계획 작성
-
+  ![여행지 계획 작성](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-edit.png)
 - 여행지 계획 작성 세부목록
-
+  ![여행지 계획 작성 세부목록](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-edit-detail.jpg)
 - 여행지 계획 작성 세부목록 추가
-
+  ![여행지 계획 작성 세부목록 추가](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-edit-detail-edit.jpg)
 - 내 찜 목록
-
+  ![내 찜 목록](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/myplace.jpg)
 - 다크모드
+  ![다크모드](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/dark.jpg)
 
 ---
 
@@ -97,14 +107,3 @@
 |                                                                                                                                                                                                                                                                                   Backend                                                                                                                                                                                                                                                                                    |                                                 Infra                                                  |                                                                                                       Etc                                                                                                       |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><br><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br><img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <br><img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> | <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> | <img src="https://img.shields.io/badge/KAKAO_MAP_SDK_V2-FFCD00?style=for-the-badge&logo=kakao&logoColor=white"><br><img src="https://img.shields.io/badge/ChatGPT-brightgreen?style=for-the-badge&logo=openai"> |
-
----
-
-## 🙇🏻‍♂️ **Members**
-
-<div align="center">
-
-|                    [elic121](https://github.com/elic121)                     |                 [jinjoo-lab](https://github.com/jinjoo-lab)                  |
-| :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/87183040?v=4" width="300"> | <img src="https://avatars.githubusercontent.com/u/84346055?v=4" width="300"> |
-|                                   **F.E.**                                   |                                   **B.E.**                                   |
