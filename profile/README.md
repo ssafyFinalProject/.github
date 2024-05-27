@@ -56,35 +56,65 @@
 ## Result
 
 - 로그인
-  ![로그인](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/login.png)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/login.png" alt="로그인" width="600"/>
+  </p>
 - 회원가입
-  ![회원가입](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/signup.png)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/signup.png" alt="회원가입" width="600"/>
+  </p>
 - 마이페이지
-  ![마이페이지](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/mypage.png)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/mypage.png" alt="마이페이지" width="600"/>
+  </p>
 - 관광지 검색 기능
-  ![관광지 검색 기능](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/search.png)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/search.png" alt="관광지 검색 기능" width="600"/>
+  </p>
 - 메인 보드
-  ![메인 보드](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/board.png)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/board.png" alt="메인 보드" width="600"/>
+  </p>
 - 게시글 내부
-  ![게시글 내부](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/board-inside.png)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/board-inside.png" alt="게시글 내부" width="600"/>
+  </p>
 - 핫플레이스
-  ![핫플레이스](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/hot-place.png)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/hot-place.png" alt="핫플레이스" width="600"/>
+  </p>
 - ChatGPT 추천기능
-  ![ChatGPT 추천기능](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/chatgpt.png)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/chatgpt.png" alt="ChatGPT 추천기능" width="600"/>
+  </p>
 - 여행지 계획 목록
-  ![여행지 계획 목록](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-list.jpg)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-list.jpg" alt="여행지 계획 목록" width="600"/>
+  </p>
 - 여행지 계획 세부목록
-  ![여행지 계획 세부목록](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-detail.jpg)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-detail.jpg" alt="여행지 계획 세부목록" width="600"/>
+  </p>
 - 여행지 계획 작성
-  ![여행지 계획 작성](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-edit.png)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-edit.png" alt="여행지 계획 작성" width="600"/>
+  </p>
 - 여행지 계획 작성 세부목록
-  ![여행지 계획 작성 세부목록](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-edit-detail.jpg)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-edit-detail.jpg" alt="여행지 계획 작성 세부목록" width="600"/>
+  </p>
 - 여행지 계획 작성 세부목록 추가
-  ![여행지 계획 작성 세부목록 추가](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-edit-detail-edit.jpg)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/plan-edit-detail-edit.jpg" alt="여행지 계획 작성 세부목록 추가" width="600"/>
+  </p>
 - 내 찜 목록
-  ![내 찜 목록](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/myplace.jpg)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/myplace.jpg" alt="내 찜 목록" width="600"/>
+  </p>
 - 다크모드
-  ![다크모드](https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/dark.jpg)
+  <p align="center">
+    <img src="https://github.com/ssafyFinalProject/.github/blob/main/profile/asset/dark.jpg" alt="다크모드" width="600"/>
+  </p>
 
 ---
 
